@@ -35,3 +35,5 @@ This project was made as part of the UW coding bootcamp.
 - [**Express.js**](https://expressjs.com/) 
 - [**MySQL2**](https://www.npmjs.com/package/mysql2)
 - [**Sequelize**](https://www.npmjs.com/package/sequelize)
+
+![Insomnia Example](Assets/Example.png)
