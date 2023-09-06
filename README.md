@@ -28,7 +28,7 @@ Download insomnia at [this link](https://insomnia.rest/)
 ## Project Info: 
 This project was made as part of the UW coding bootcamp. 
 - Github repo: [eCommerceSQLize](https://github.com/tjansson-ui/eCommerceSQLize)
-- Video Demo available at: [tbd]()
+- Video Demo available at: [Google Drive](https://drive.google.com/file/d/1py-NvOAxePbNDCncYUlKKtNccdtMAj2B/view?usp=sharing)
 
 ### Node packages include: 
 - [**Node.js**](https://nodejs.org/en) 
