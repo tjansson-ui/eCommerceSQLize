@@ -44,20 +44,8 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
   try{
-    await ProductTag.destroy({
-      // update a tag's name by its `id` value
-      where: {
-        tag_id: req.params.id
-      }
-    })
-    const productIDs = req.body.products
-    for (const productID of productIDs) {
-      await ProductTag.create({
-        product_id: productID,
-        tag_id: req.params.id
-      })
-    }
     const updatedTag = await Tag.update(req.body, {
+      // update a tag's name by its `id` value
       where: {
         id: req.params.id
       }

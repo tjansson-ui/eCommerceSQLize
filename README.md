@@ -16,6 +16,12 @@ npm run watch
 npm run start
 ```
 
+You may need to make a .env file with the information for 
+- DB_NAME='{db name}'
+- DB_PASSWORD='{db pass}'
+- DB_USER='{db user}'
+
+
 This project is prepared for Insomnia for its get/post/put/delete requests. 
 Download insomnia at [this link](https://insomnia.rest/)
 
